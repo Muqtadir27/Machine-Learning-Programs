@@ -1,2 +1,2 @@
-# Machine-Learning-Programs
-This repo consists of ML programs from Linear Regression to Random Forest, Its logic and its implementation
+# Machine-Programs
+This repository contain basic Machine Learning programs . Starting from the Linear Regression to Random Forest . A basic logic is implemented and can be easy understandable
